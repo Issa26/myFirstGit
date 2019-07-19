@@ -1,1 +1,1 @@
-console.log("Hellow Word");
+console.log(5+10)

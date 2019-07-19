@@ -13,12 +13,12 @@ In this week’s lab you will be setting up _git, creating branches and solving 
 3. Third step
 4. Fourth step
 # table of week course and course content
-| Weeks | Course Num |Course Content |
-| ------------ | ------------- |-------------|
-| 1 | 2701 |intro |
-| 2 | 2703 |java |
-| 3 | 3701 |swift |
-| 4 | 2128 |intro |
-| 5 | 2808 |intro |
-| 6 | 2807 |intro |
-| 7 | 2806 |intro |
+| Weeks        | Description           | Learning Outcome |
+| ------------- |-------------| -----|
+| 1    | Intro | 1,5 |
+| 2      | Git      |   2 |
+| 3 | NodeJS (Server)    |    2,3 |
+| 4    | Angular | 3 |
+| 5      | Request to server      |   3 |
+| 6 | Sockets      |    3 |
+| 7    | NoSQL data storage| 2 |
